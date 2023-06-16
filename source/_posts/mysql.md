@@ -54,7 +54,7 @@ mysql -h <host> -u <user> -p [db_name]
 | `TRUNCATE TABLE `t`;`    | Remove all data in a table |
 | `DROP TABLE `t`;`        | Delete table               |
 
-#### Proccess
+#### Process
 
 | -                   | -              |
 |---------------------|----------------|
@@ -952,4 +952,4 @@ MySQL Functions & Operators
 
 Also see {.cols-1}
 --------
-- [Regex in MySQL](/regex#regex-in-mysql) _(quickref.me)_
+- [Regex in MySQL](/regex#regex-in-mysql) _(cheatsheets.zip)_

@@ -88,7 +88,7 @@ Getting Started
     Write a program that calculates the factorial of a given number in python?
     ```
     ``` {.wrap}
-    How do I make an HTTP request in Javascript?
+    How do I make an HTTP request in JavaScript?
     ```
 - **Generate regular expressions (regex)**
     ``` {.wrap}
@@ -108,12 +108,12 @@ Getting Started
 - **Change the CSS of a line of code**
     ``` {.wrap}
     Update the CSS for this line to change the font color to blue?
-    <p class="example">Hello, QuickRef.ME!</p>
+    <p class="example">Hello, CheatSheets.zip!</p>
     ```
 - **Change the HTML of a line of code**
     ``` {.wrap}
     Add a class of "header" to this header tag?
-    <h1>Hello, QuickRef.ME!</h1>
+    <h1>Hello, CheatSheets.zip!</h1>
     ```
 {.collapsible}
 
@@ -153,7 +153,7 @@ Getting Started
 - **Extract email address from text**
     ``` {.wrap}
     Extract all email addresses for me: 
-    Sed sit amet sodales tom@gmail.com, at jack@quickref.me enim. 18261@outlook.com ut eros 
+    Sed sit amet sodales tom@gmail.com, at jack@cheatsheets.zip enim. 18261@outlook.com ut eros 
     ```
 {.collapsible}
 
@@ -465,7 +465,7 @@ Getting Started
     ```
 
     ``` {.wrap}
-    How do I make an HTTP request in Javascript?
+    How do I make an HTTP request in JavaScript?
     ```
 
     ``` {.wrap}

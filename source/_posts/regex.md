@@ -21,13 +21,13 @@ Getting Started
 
 This is a quick cheat sheet to getting started with regular expressions.
 
-- [Regex in Python](#regex-in-python) _(quickref.me)_
-- [Regex in JavaScript](#regex-in-javascript) _(quickref.me)_
-- [Regex in PHP](#regex-in-php) _(quickref.me)_
-- [Regex in Java](#regex-in-java) _(quickref.me)_
-- [Regex in MySQL](#regex-in-mysql) _(quickref.me)_
-- [Regex in Vim](/vim#search-and-replace) _(quickref.me)_
-- [Regex in Emacs](/emacs#search) _(quickref.me)_
+- [Regex in Python](#regex-in-python) _(cheatsheets.zip)_
+- [Regex in JavaScript](#regex-in-javascript) _(cheatsheets.zip)_
+- [Regex in PHP](#regex-in-php) _(cheatsheets.zip)_
+- [Regex in Java](#regex-in-java) _(cheatsheets.zip)_
+- [Regex in MySQL](#regex-in-mysql) _(cheatsheets.zip)_
+- [Regex in Vim](/vim#search-and-replace) _(cheatsheets.zip)_
+- [Regex in Emacs](/emacs#search) _(cheatsheets.zip)_
 - [Online regex tester](https://regex101.com/) _(regex101.com)_
 {.cols-2 .marker-round}
 
@@ -706,16 +706,16 @@ Regex in PHP
 $str = "Visit Microsoft!";
 $regex = "/microsoft/i";
 
-// Output: Visit QuickRef!
-echo preg_replace($regex, "QuickRef", $str); 
+// Output: Visit CheatSheets!
+echo preg_replace($regex, "CheatSheets", $str); 
 ```
 
 
 
 ### preg_match
 ```php 
-$str = "Visit QuickRef";
-$regex = "#quickref#i";
+$str = "Visit CheatSheets";
+$regex = "#cheatsheets#i";
 
 // Output: 1
 echo preg_match($regex, $str);

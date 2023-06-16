@@ -1,5 +1,5 @@
 ---
-title: QuickRef
+title: CheatSheets
 date: 2020-11-25 18:28:43
 background: bg-gradient-to-l from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500
 tags:
@@ -7,7 +7,7 @@ tags:
     - reference
 categories:
     - Other
-intro: This is the magic syntax variant manual that you can use on QuickRef.ME, It's a good practice for contributors.
+intro: This is the magic syntax variant manual that you can use on CheatSheets.zip, It's a good practice for contributors.
 plugins:
     - copyCode
 ---
@@ -35,7 +35,7 @@ Getting Started
 - Send us pull request and chill
 {.marker-timeline}
  
-It's a good practice to refer to the source code of the [QuickRef cheatsheet](https://github.com/Fechin/reference/blob/main/source/_posts/quickref.md).
+It's a good practice to refer to the source code of the [CheatSheets reference](https://github.com/Fechin/reference/blob/main/source/_posts/quickref.md).
 
 
 
@@ -47,9 +47,9 @@ It's a good practice to refer to the source code of the [QuickRef cheatsheet](ht
 ├── source
 │   ├── _posts   # Cheatsheet source files
 │   │   ├── awk.md
-│   │   ├── vim.md # => quickref.me/vim
+│   │   ├── vim.md # => cheatsheets.zip/vim
 │   │   ├── php.md
-│   │   ├── css.md # => quickref.me/css
+│   │   ├── css.md # => cheatsheets.zip/css
 │   │   ├── ...
 │   └── widget   # Widget files
 │       └── chmod.html
@@ -109,7 +109,7 @@ It's a good practice to refer to the source code of the [QuickRef cheatsheet](ht
 - [Paragraph Variants](#paragraph-variants)
 - [Cards Example](#cards-example)
 
-All the magic variants supported by QuickRef.ME
+All the magic variants supported by CheatSheets.zip
 
 
 ### Create source/_posts/demo.md
@@ -702,7 +702,7 @@ Code Variants
 ### Basic code
 
 ```js
-quickref.me.is(() => {
+cheatsheets.zip.is(() => {
   awesome.site()
 })
 ```
@@ -715,7 +715,7 @@ here.is.some.more()
 ```markdown
 
 ```js
-quickref.me.is(() => {
+cheatsheets.zip.is(() => {
   awesome.site()
 })
 \```
@@ -735,7 +735,7 @@ Code blocks can be placed one after the other.
 #### index.js
 
 ```js
-quickref.me.is(() => {
+cheatsheets.zip.is(() => {
     awesome.site()
 })
 ```
@@ -751,7 +751,7 @@ here.is.some.more()
 ```markdown
 #### index.js
 ```js
-quickref.me.is(() => {
+cheatsheets.zip.is(() => {
     awesome.site()
 })
 \```
@@ -824,7 +824,7 @@ The text that appears in the header
 This paragraph will appear in the middle
 
 ```js
-quickref.is(() => {
+cheatsheets.is(() => {
   awesome.site()
 })
 ```
@@ -838,7 +838,7 @@ quickref.is(() => {
 This paragraph will appear in the middle
 
 ```js
-quickref.is(() => {
+cheatsheets.is(() => {
   awesome.site()
 })
 \```
@@ -850,7 +850,7 @@ quickref.is(() => {
 ### Footer paragraphs {.row-span-2}
 
 ```js
-quickref.is(() => {
+cheatsheets.is(() => {
   awesome.site()
 })
 ```
@@ -858,7 +858,7 @@ quickref.is(() => {
 #### ↓ Source Code
 ```markdown
 ```js
-quickref.is(() => {
+cheatsheets.is(() => {
   awesome.site()
 })
 \```

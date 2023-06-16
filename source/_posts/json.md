@@ -79,8 +79,8 @@ Getting Started
 #### Examples
 ```json {.wrap}
 {
-  "url": "https://quickref.me",
-  "msg" : "Hi,\n\"QuickRef.ME\"",
+  "url": "https://cheatsheets.zip",
+  "msg" : "Hi,\n\"CheatSheets.zip\"",
   "intro": "Share quick reference and cheat sheet for developers."
 }
 ```

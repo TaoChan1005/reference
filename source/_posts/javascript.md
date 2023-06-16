@@ -22,8 +22,8 @@ Getting Started
 ### Introduction
 JavaScript is a lightweight, interpreted programming language.
 
-- [JSON cheatsheet](/json) _(quickref.me)_
-- [Regex in JavaScript](/regex#regex-in-javascript) _(quickref.me)_
+- [JSON cheatsheet](/json) _(cheatsheets.zip)_
+- [Regex in JavaScript](/regex#regex-in-javascript) _(cheatsheets.zip)_
 
 
 ### Console
@@ -32,8 +32,8 @@ JavaScript is a lightweight, interpreted programming language.
 // => Hello world!
 console.log('Hello world!');
 
-// => Hello QuickRef.ME
-console.warn('hello %s', 'QuickRef.ME');
+// => Hello CheatSheets.zip
+console.warn('hello %s', 'CheatSheets.zip');
 
 // Prints error message to stderr
 console.error(new Error('Oops!'));

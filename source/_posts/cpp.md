@@ -21,7 +21,7 @@ Getting Started
 #include <iostream>
 
 int main() {
-    std::cout << "Hello QuickRef\n";
+    std::cout << "Hello CheatSheets\n";
     return 0;
 }
 ```
@@ -31,7 +31,7 @@ Compiling and running
 ```shell script
 $ g++ hello.cpp -o hello
 $ ./hello
-Hello QuickRef
+Hello CheatSheets
 ```
 
 ### Variables
@@ -130,7 +130,7 @@ int main() {  // main function
 }
  
 void hello() { // Defining
-    std::cout << "Hello QuickRef!\n";
+    std::cout << "Hello CheatSheets!\n";
 }
 ```
 
@@ -213,7 +213,7 @@ std::array<int, 6> marks = {92, 97, 98, 99, 98, 94};
 // Print first element
 std::cout << marks[0];
 
-// Change 2th element to 99
+// Change 2nd element to 99
 marks[1] = 99;
 
 // Take input from the user
@@ -494,7 +494,7 @@ for (int n : {1, 2, 3, 4, 5}) {
 ---
 
 ```cpp
-std::string hello = "QuickRef.ME";
+std::string hello = "CheatSheets.zip";
 for (char c: hello)
 {
     std::cout << c << " ";

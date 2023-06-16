@@ -44,7 +44,7 @@ int num = 5;
 float floatNum = 5.99f;
 char letter = 'D';
 boolean bool = true;
-String site = "quickref.me";
+String site = "cheatsheets.zip";
 ```
 
 ### Primitive Data Types {.row-span-2}
@@ -77,11 +77,11 @@ See: [Strings](#java-strings)
 
 ### Loops
 ```java
-String word = "QuickRef";
+String word = "CheatSheets";
 for (char c: word.toCharArray()) {
   System.out.print(c + "-");
 }
-// Outputs: Q-u-i-c-k-R-e-f-
+// Outputs: C-h-e-a-t-S-h-e-e-t-s-
 ```
 See: [Loops](#java-loops)
 
